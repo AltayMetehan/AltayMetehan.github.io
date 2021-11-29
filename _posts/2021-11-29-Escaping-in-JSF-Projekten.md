@@ -40,7 +40,7 @@ Das Escaping wir jedes Mal verwendet, weil das eine der einfachsten und wichtigs
 ## Reflexion und Auswertung
 **Reflexion**
 Ich hatte keine Probleme das Escaping zu aktivieren, aber die entsprechenden Orte zu finden war schwer. Das Escaping in JSF zu aktivieren ist einfach, aber ich weiss nicht, wie
-es auf einer normalen Webseite ohne JSF gehen sollte. Das einzige Problem wird sein das Escaping auf anderen Projekten ohne JSF zu aktivieren.
+es auf einer normalen Webseite ohne JSF gehen sollte. Das einzige Problem wird sein das Escaping auf anderen Projekten ohne JSF zu aktivieren. Ich habe keien Ahnung, wie ich das umsetzen soll, aber es gibt wahrscheinlich Lösungen auf Google.
 
 **Auswertung**
 1.) Der Text, wenn ein Skript eingegeben wird, sieht so aus.
