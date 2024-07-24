@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Über mich
 permalink: /about/
 ---
 
-Some information about you!
+Momentan ein IMS-Praktikant bei der BBB. Hoffentlich ab Mitte September ein Studierender and der ZHAW.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Ich singe gerne und bin auch in einem Chor. Der Chor heisst VoicSing und ist in Baden. Das hier ist die Webseite: https://www.voicsing-baden.ch/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[altaymetehan03@hotmail.com](mailto:altaymetehan03@hotmail.com)
